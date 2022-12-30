@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.083 s <<< FAILURE! - in TestSuite
+Classone(Demo.TestNGQAFOX.TestOne)  Time elapsed: 0.847 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'URL' is required by @Test on method Classone but has not been marked @Optional or defined
+
+
